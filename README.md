@@ -1,0 +1,1 @@
+# Code_standar_verificator
